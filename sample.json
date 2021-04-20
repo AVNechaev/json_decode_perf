@@ -1,0 +1,155 @@
+{
+    "message_id": "81f25b20-7262-4404-8ea2-9fb10e7a7cc5",
+    "sender_id": "102987",
+    "receiver_id": "SM",
+    "data_type": "04",
+    "format_version": "20.2.1",
+    "sys_id": {
+        "date_time": "2021-04-11 18:59:48",
+        "source_id": "SM",
+        "po_version": "1.23.37"
+    },
+    "content": {
+        "type": 8,
+        "properties": [],
+        "category_id": 5,
+        "operation_info": {
+            "sys_id": {
+                "date_time": "2021-04-11 18:59:48",
+                "source_id": "SM",
+                "po_version": "1.23.37"
+            },
+            "oper_date_time": "2021-04-11 21:59:48",
+            "oper_time_zone": "+03:00",
+            "oper_address_data": {
+                "type": 1,
+                "properties": [
+                    {
+                        "name": "customs_code",
+                        "value": "10001030"
+                    }
+                ],
+                "index": "102987",
+                "impc_code": "RUMOWR",
+                "border_index": "102980",
+                "country": {
+                    "ru_code": "643"
+                }
+            },
+            "type_of_operand1": 1,
+            "id_of_operand1": "EL045339862RU",
+            "rpo_info": {
+                "base_info": {
+                    "id": "",
+                    "type": 7,
+                    "entity_type": 1,
+                    "category_id": 3,
+                    "sys_id": {
+                        "date_time": "2021-04-11 18:59:48",
+                        "source_id": "SM",
+                        "po_version": "1.23.37"
+                    },
+                    "bar_code": "EL045339862RU",
+                    "own_number": "EL045339862RU",
+                    "create_date_time": "2021-04-09 18:57:34",
+                    "create_time_zone": "+03:00",
+                    "create_address_data": {
+                        "type": 1,
+                        "index": ""
+                    },
+                    "direct_ctg": 2
+                },
+                "rpo_info": {
+                    "send_ctg": 4,
+                    "trans_type": 2,
+                    "post_mark": [
+                        256
+                    ],
+                    "mail_rank": 0,
+                    "trans_ctg": -1,
+                    "pay_type": [
+                        -1
+                    ],
+                    "index_from": "300041",
+                    "index_to": "",
+                    "country_from": "643",
+                    "country_to": "860",
+                    "inter_type": -1,
+                    "weight": [
+                        {
+                            "type": 1,
+                            "value": 65,
+                            "measurement": "g"
+                        },
+                        {
+                            "type": 2,
+                            "value": 65,
+                            "measurement": "g"
+                        }
+                    ],
+                    "money": [
+                        {
+                            "type": 12,
+                            "properties": [
+                                {
+                                    "name": "sourcemoney_currency",
+                                    "value": "RUB"
+                                },
+                                {
+                                    "name": "sourcemoney_value",
+                                    "value": "110000"
+                                },
+                                {
+                                    "name": "recounted_money_currency",
+                                    "value": "EUR"
+                                },
+                                {
+                                    "name": "recounted_money_value",
+                                    "value": "1199"
+                                }
+                            ],
+                            "value": 1199,
+                            "measurement": "EUR"
+                        }
+                    ],
+                    "rcpn": {
+                        "type": 3,
+                        "properties": [],
+                        "name": "КАРИМОВА САНАБАРХОН ХАМИДОВНА",
+                        "category_id": 1
+                    },
+                    "rcpn_address": {
+                        "type": 4,
+                        "address": {
+                            "type": 1,
+                            "place": "узбекистан",
+                            "street": ""
+                        },
+                        "country": {
+                            "ru_code": "860"
+                        }
+                    },
+                    "sndr": {
+                        "type": 2,
+                        "properties": [],
+                        "name": "ЕРЕМЕНКО КОНСТАНТИН ЛЕОНИДОВИЧ",
+                        "category_id": 1
+                    },
+                    "sndr_address": {
+                        "type": 3,
+                        "index": "300041",
+                        "address": {
+                            "type": 1,
+                            "place": "Тула",
+                            "street": "ул Металлургов 48а 19"
+                        },
+                        "country": {
+                            "ru_code": "643"
+                        }
+                    }
+                }
+            },
+            "oper_login": "Лисок Владислав Анатольевич"
+        }
+    }
+}

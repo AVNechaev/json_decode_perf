@@ -1,0 +1,14 @@
+erl_crash.dump
+*.beam
+ebin/*.app
+*.dets
+Mnesia*
+.emacs.desktop
+*.*~
+#*#
+.idea
+_build
+_checkouts
+rebar.lock
+*.iml
+.rebar3
